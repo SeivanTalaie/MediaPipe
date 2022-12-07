@@ -1,4 +1,4 @@
-# MediaPipe is a library that uses trained models for different purposes such as :
+MediaPipe is a library that uses trained models for different purposes such as :
 Face detection 
 Face mesh 
 Hand tracking 
