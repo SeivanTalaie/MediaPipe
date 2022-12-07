@@ -1,2 +1,0 @@
-# MediaPipe
-asd
